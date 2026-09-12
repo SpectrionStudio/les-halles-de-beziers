@@ -1,5 +1,5 @@
 # les-halles-de-beziers
-Projet SAE en MMI Dev Web
+Projet SAE en MMI Dev Web : voici le lien du site test sur le 360 degrés pour un aperçu temporaire https://spectrionstudio.github.io/les-halles-de-beziers/
 
 README 
 
