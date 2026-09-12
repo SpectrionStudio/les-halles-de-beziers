@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+
+</head>
+<body>
+
+    <a-scene>
+        <a-sky src="images/3d_11.jpg"></a-sky>
+        <a-entity position="0 1.6 0">
+            <a-camera>
+            <a-cursor></a-cursor>
+            </a-camera>
+        </a-entity>
+        <a-sphere
+            position="-13 0.0 5.7"
+            radius="0.3"
+            color="#FF0000"
+            class="clickable"
+            onclick="window.location.href='visite6.html'">
+        </a-sphere>
+        <a-sphere
+            position="-17.4 0 -22.7"
+            radius="0.3"
+            color="#FF0000"
+            class="clickable"
+            onclick="window.location.href='visite13.html'">
+        </a-sphere>
+        <a-sphere
+            position="22.8 0 43.8"
+            radius="0.3"
+            color="#FF0000"
+            class="clickable"
+            onclick="window.location.href='visite14.html'">
+        </a-sphere>
+    </a-scene>
+    
+</body>
+</html>
