@@ -30,3 +30,7 @@ Pour ce qui est du  contact, j'avais aussi une autre idée par rapport à ce que
 CONSIGNES
 
 Pour ce qui est des  consignes je n'ai pas pu faire une nav que l'on puisse défiler, j'ai par contre bien vérifié mon code avec le Validator W3. Ce qui me différencie des autres c'est concrètement mon thème que j'ai créé pour pouvoir essayer de jouer sur l'originalité et la diversité du  site. J'ai essayé de faire de mon mieux pour  découvrir de nouvelles choses malgré le manque d'expérience dans le js que  je possède. J'ai pu réussir à faire un  slider au lieu de faire 10 pages  web présentant ces stands pour pouvoir optimiser mon site et j'ai pu faire une carte  de repérage des Halles de Béziers personnalisée comparer à d'autres sites très probablement. 
+
+FUTUR UPLOAD
+
+Dans le futur je compte reprendre ce site afin de peaufiner le design ainsi que le site en lui-même avec ce que le BTS SIO va pouvoir me donner en terme d'expérience afin que ce site soit bien plus propre que là actuellement. Je compte mettre à jour le README donc surtout n'hésitez pas à revenir prochainement!
