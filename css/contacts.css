@@ -1,0 +1,140 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-image: url(../image/sheika.jpg);
+}
+
+.contact-container {
+    display: flex;
+    min-height: 100vh;
+}
+
+/* Image */
+.contact-image {
+
+    width: 50%;
+    padding: 40px;
+    display: flex;
+    justify-content: center; /* centre horizontalement */
+    align-items: center;     /* centre verticalement */
+
+}
+
+
+
+.contact-image img {
+    width: 75%;
+    height: 75%;
+    object-fit: cover;
+    display:flex;
+    justify-content: center; 
+    align-items: center;     
+}
+
+/* Formulaire */
+.contact-form {
+    width: 50%;
+    padding: 60px;
+    color: gold;
+}
+
+.contact-form h1 {
+    margin-bottom: 30px;
+}
+
+.contact-form label {
+    display: block;
+    margin-top: 15px;
+}
+
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.contact-form button {
+    margin-top: 25px;
+    padding: 12px;
+    width: 100%;
+    border: none;
+    background: #000;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.contact-form button:hover {
+    background: #333;
+}
+
+
+@media (max-width: 768px) {
+
+    body {
+    background-image: url(../image/sheika.jpg);   
+     }
+
+    .contact-container {
+        flex-direction: column;
+        min-height: auto;
+    }
+
+    /* CARTE */
+
+    .contact-image {
+        padding: 20px;
+    }
+
+    .contact-image img {
+        width: 100%;
+        max-width: 350px;
+    }
+    .contact-image {
+        width: 100%;
+        padding: 20px;
+    }
+
+    .contact-image iframe {
+        height: 300px;
+    }
+
+    .contact-infos {
+        font-size: 16px;
+    }
+
+    /* FORMULAIRE */
+    .contact-form {
+        width: 100%;
+        padding: 30px 20px;
+    }
+
+    .contact-form h1 {
+        font-size: 28px;
+        text-align: center;
+    }
+
+    .contact-form label {
+        font-size: 16px;
+        margin-top: 20px;
+    }
+
+    .contact-form input,
+    .contact-form textarea {
+        font-size: 16px;
+        padding: 14px;
+    }
+
+    .contact-form textarea {
+        min-height: 140px;
+    }
+
+    .contact-form button {
+        font-size: 18px;
+        padding: 16px;
+        margin-top: 30px;
+    }
+}
