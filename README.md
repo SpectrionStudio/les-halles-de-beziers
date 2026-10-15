@@ -3,7 +3,7 @@ Projet SAE en MMI Dev Web : voici le lien du site test sur le 360 degrés pour u
 
 README 
 
-Ce site web a été élaborer par Luangraj Kylian lors d'une SAE faite par l'IUT dans le cadre de pouvoir maitriser les bases du développement web dans les domaines des langages de js , html et css. 
+Ce site web a été élaborer lors d'une SAE faite par l'IUT dans le cadre de pouvoir maitriser les bases du développement web dans les domaines des langages de js , html et css. 
 Le sujet étant de présenter en vitrine les Halles de Béziers qui est le marché le plus beau de France. 
 Nous devons présenter différentes pages web comme l'index, les commerçants et le contact. 
 Nous devons aussi créer une visite en 360 degrés que nous pouvons retrouver sur le  google map par exemple. 
